@@ -4,7 +4,12 @@
     padding: 10px;
   }
   .form-container {
-    width: 100%;
+    max-width: 300px; 
+  margin: auto;
+  padding: 15px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  background-color: #fff; 
   }
 }
 
